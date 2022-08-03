@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "771429062614",
+    "firebase_url": "https://co2emissions-11473-default-rtdb.firebaseio.com",
+    "project_id": "co2emissions-11473",
+    "storage_bucket": "co2emissions-11473.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:771429062614:android:5b66d9f6be6f3d5bbc3677",
+        "android_client_info": {
+          "package_name": "com.computer.tiptome"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "771429062614-eh6lmq1daldqi7kdkqgbuor5mm0udu74.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBr6redNSNkK5klJcaBRxrEuoNH0RNTiOs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "771429062614-eh6lmq1daldqi7kdkqgbuor5mm0udu74.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
